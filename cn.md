@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /cn/
-lang: zh-cn
+lang: cn
 ---
 {% include sections/profile-photo.html %}
 
