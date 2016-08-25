@@ -1,15 +1,15 @@
 {
-	"name": "English",
+	"name": "Chinese",
 	"terms": [{
 		"profile_photo": {
-			"name": "Shiwu",
-			"position": "Ph.D. student",
+			"name": "廖诗武",
+			"position": "博士研究生",
 			"change": "change to ",
-			"scroll_down": "Scroll down",
+			"scroll_down": "向下滚动",
 			"section": "Me"
 		},
 		"profile_about": {
-			"title": "About",
+			"title": "关于我",
 			"paragraph_1": "My full name is Shiwu Liao. I am a Ph.D. student at Huazhong Univ. of Sci and Tech.",
 			"paragraph_2": "AAA.",
 			"paragraph_3": "BBB.",
@@ -18,7 +18,7 @@
 			"title_social": "Social"
 		},
 		"profile_quote": {
-			"title": "Favorite quote",
+			"title": "座右铭",
 			"quote": "\" No matter that few are your possessions and your money. Having a dog makes you rich. \"",
 			"author": "Louis Sabin",
 			"section": "Quote"
