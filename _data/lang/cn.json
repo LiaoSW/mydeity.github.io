@@ -3,17 +3,18 @@
 	"terms": [{
 		"profile_photo": {
 			"name": "廖诗武",
-			"position": "博士研究生",
+			"position": "华中科技大学电气与电子工程学院，博士研究生",
+			"contact": "Email: liaoshiwu@gmail.com",
 			"change": "change to ",
 			"scroll_down": "向下滚动",
 			"section": "Me"
 		},
 		"profile_about": {
 			"title": "关于我",
-			"paragraph_1": "My full name is Shiwu Liao. I am a Ph.D. student at Huazhong Univ. of Sci and Tech.",
-			"paragraph_2": "AAA.",
-			"paragraph_3": "BBB.",
-			"paragraph_4": "CCC.",
+			"paragraph_1": "华中科技大学电气与电子工程学院博士研究生，研究领域包括：新能源并网，环境协同的电力系统调度以及电力系统恢复控制.",
+			"paragraph_2": "",
+			"paragraph_3": "",
+			"paragraph_4": "",
 			"section": "About",
 			"title_social": "Social"
 		},

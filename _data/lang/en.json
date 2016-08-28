@@ -2,18 +2,19 @@
 	"name": "English",
 	"terms": [{
 		"profile_photo": {
-			"name": "Shiwu",
-			"position": "Ph.D. student",
+			"name": "LIAO Shiwu",
+			"position": "Ph.D. student, School of Electrical and Electronic Engineering, Huazhong University of Science and Technology",
+			"contact": "Email: liaoshiwu@gmail.com",
 			"change": "change to ",
 			"scroll_down": "Scroll down",
 			"section": "Me"
 		},
 		"profile_about": {
 			"title": "About",
-			"paragraph_1": "My full name is Shiwu Liao. I am a Ph.D. student at Huazhong Univ. of Sci and Tech.",
-			"paragraph_2": "AAA.",
-			"paragraph_3": "BBB.",
-			"paragraph_4": "CCC.",
+			"paragraph_1": "My name is LIAO Shiwu. I am a Ph.D. student and a research assistant at Huazhong University of Science and Technology, Wuhan, China. My research focuses on the renewable energy integration, enviromental related power system operation, and power system restoration.",
+			"paragraph_2": "I'm an active and enthusiastic person, learning new things fast, full of new ideas, and also good at working my ideas out. I love the energy area and have always wanted to change the way people use energy. My power system background pushed me to a conclusion that improving the demand side efficiency and shifting to renewable energies are the best two ways to help the world, and that is just what I'm working on.",
+			"paragraph_3": "",
+			"paragraph_4": "",
 			"section": "About",
 			"title_social": "Social"
 		},
