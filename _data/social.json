@@ -1,14 +1,19 @@
 {
 	"networks": [
 		{
-			"name": "LinkedIn",
+			"name": "linkedin",
 			"username":  "liaoshiwu",
 			"url": "https://cn.linkedin.com/in/"
 		},
 		{
+			"name": "github",
+			"username":  "mydeity",
+			"url": "https://github.com/"
+		},
+		{
 			"name": "instagram",
-			"username": "#mydeity",
-			"url": "https://www.instagram.com/explore/tags/"
+			"username": "mydeity",
+			"url": "https://www.instagram.com/"
 		}
 	]
 }
