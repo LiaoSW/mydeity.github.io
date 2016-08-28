@@ -1,18 +1,18 @@
 {
 	"networks": [
 		{
-			"name": "facebook-official",
-			"username":  "LabradorRetrieverDogs",
-			"url": "https://www.facebook.com/"
+			"name": "LinkedIn",
+			"username":  "liaoshiwu",
+			"url": "https://cn.linkedin.com/in/"
 		},
-		{
-			"name": "youtube-play",
-			"username":  "labrador",
-			"url": "https://www.youtube.com/results?search_query="
-		},
+		// {
+		// 	"name": "youtube-play",
+		// 	"username":  "labrador",
+		// 	"url": "https://www.youtube.com/results?search_query="
+		// },
 		{
 			"name": "instagram",
-			"username": "#labrador",
+			"username": "#mydeity",
 			"url": "https://www.instagram.com/explore/tags/"
 		}
 	]
