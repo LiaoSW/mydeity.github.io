@@ -3,7 +3,7 @@ layout: post
 title:  "why severe renewable curtailments happen in Xinjiang?"
 subtitle: ""
 date:   2016-11-02
-tags: "
+tags: 
 image: 
 lang: en
 permalink: /blog/:year/:month/:day/:title/
@@ -13,9 +13,9 @@ permalink: /blog/:year/:month/:day/:title/
 
 ![placeholder]({{ site.url | prepend: site.baseurl }}{{ page.image }} "{{ page.title }}")
 
-#转自eo特稿 | 弃风率44％，弃光率32％，有了特高压，新疆新能源困局为何仍无解？
+# 转自eo特稿 | 弃风率44％，弃光率32％，有了特高压，新疆新能源困局为何仍无解？
 
-##eo记者 何诺书 发自乌鲁木齐
+## eo记者 何诺书 发自乌鲁木齐
 
 
 
