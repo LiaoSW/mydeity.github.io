@@ -52,6 +52,9 @@ html {
   color: rgba(255,255,255,.5);
   font-size: 1.5rem;
 }
+.lead {
+  font-size: 1rem;
+}
 .sidebar-about a img {
   width: 220px;
   display: block;
