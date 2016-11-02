@@ -48,10 +48,14 @@ html {
   font-family: "Abril Fatface", serif;
   font-size: 3.25rem;
 }
+.sidebar-about h2 {
+  color: rgba(255,255,255,.5);
+  font-size: 1.5rem;
+}
 .sidebar-about a img {
   width: 220px;
   display: block;
-  margin: 0 auto 30px auto;
+  margin: 0 auto 20px auto;
 }
 .sidebar-nav {
   margin-bottom: 1rem;
