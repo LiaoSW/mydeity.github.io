@@ -1,12 +1,10 @@
 ---
+layout: default
+permalink: /
+lang: en
 ---
+{% include sections/profile-photo.html %}
 
-<html xmlns="http://www.w3.org/1999/xhtml">    
-  <head>      
-    <title>{{site.title}}</title>      
-    <meta http-equiv="refresh" content="0;URL='{{ site.url | prepend: site.baseurl }}/en/'" />    
-  </head>    
-  <body> 
-    <p>This page has moved to a <a href="{{ site.url | prepend: site.baseurl }}/en/">{{ site.url | prepend: site.baseurl }}/en/</a>.</p> 
-  </body>  
-</html> 
+{% include sections/profile-about.html %}
+
+{% include sections/profile-quote.html %}
