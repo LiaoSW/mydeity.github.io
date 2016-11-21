@@ -4,7 +4,7 @@
 		"profile_photo": {
 			"name": "廖诗武",
 			"position": "华中科技大学电气与电子工程学院，博士研究生",
-			"contact": "Email: liaoshiwu@gmail.com",
+			"contact": "Email: liaoshiwu(AT)gmail(DOT)com",
 			"change": "change to ",
 			"scroll_down": "向下滚动",
 			"section": "Me"
@@ -20,8 +20,8 @@
 		},
 		"profile_quote": {
 			"title": "座右铭",
-			"quote": "\" A man can be destroyed but not defeated. \"",
-			"author": "Ernest Hemingway",
+			"quote": "\" 给时间以生命，而不是给生命以时间. \"",
+			"author": "Blaise Pascal",
 			"section": "Quote"
 		},
 		"copyright": "Copyright © 2016 Shiwu Liao. Made with ♥ and <a href='https://jekyllrb.com/' target='_blank'>Jekyll</a>."

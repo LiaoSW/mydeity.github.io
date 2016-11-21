@@ -4,7 +4,7 @@
 		"profile_photo": {
 			"name": "LIAO Shiwu",
 			"position": "Ph.D. student, School of Electrical and Electronic Engineering, Huazhong University of Science and Technology",
-			"contact": "Email: liaoshiwu@gmail.com",
+			"contact": "Email: liaoshiwu(AT)gmail(DOT)com",
 			"change": "change to ",
 			"scroll_down": "Scroll down",
 			"section": "Me"
@@ -20,8 +20,8 @@
 		},
 		"profile_quote": {
 			"title": "Favorite quote",
-			"quote": "\" A man can be destroyed but not defeated. \"",
-			"author": "Ernest Hemingway",
+			"quote": "\" To the time to life, rather than to life in time. \"",
+			"author": "Blaise Pascal",
 			"section": "Quote"
 		},
 		"copyright": "Copyright © 2016 Shiwu Liao. Made with ♥ and <a href='https://jekyllrb.com/' target='_blank'>Jekyll</a>."
