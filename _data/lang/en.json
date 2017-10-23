@@ -2,8 +2,8 @@
 	"name": "English",
 	"terms": [{
 		"profile_photo": {
-			"name": "LIAO Shiwu",
-			"position": "Ph.D. student, School of Electrical and Electronic Engineering, Huazhong University of Science and Technology",
+			"name": "LIAO Shiwu  Ph.D.",
+			"position": "Engineer, Electrical Power Research Institute, State Grid Jiangsu Power Company.",
 			"contact": "Email: liaoshiwu(AT)gmail(DOT)com",
 			"change": "change to ",
 			"scroll_down": "Scroll down",
@@ -11,8 +11,8 @@
 		},
 		"profile_about": {
 			"title": "About",
-			"paragraph_1": "My name is LIAO Shiwu. I am a Ph.D. student and a research assistant at Huazhong University of Science and Technology, Wuhan, China. My research focuses on the renewable energy integration, enviromental related power system operation, and power system restoration.",
-			"paragraph_2": "I'm an active and enthusiastic person, learning new things fast, full of new ideas, and also good at working my ideas out. I love the energy area and have always wanted to change the way people use energy. My power system background pushed me to a conclusion that improving the demand side efficiency and shifting to renewable energies are the best two ways to help the world, and that is just what I'm working on.",
+			"paragraph_1": "Shiwu received B.Eng. and Ph.D. degree all from  School of Electrical and Electronic Engineering, Huazhong University of Science and Technology in 2012 and 2017, respectively. His research focuses on the renewable energy integration, enviromental related power system operation, and power system restoration.",
+			"paragraph_2": "",
 			"paragraph_3": "",
 			"paragraph_4": "",
 			"section": "About",
@@ -24,6 +24,6 @@
 			"author": "Blaise Pascal",
 			"section": "Quote"
 		},
-		"copyright": "Copyright © 2016 Shiwu Liao. Made with ♥ and <a href='https://jekyllrb.com/' target='_blank'>Jekyll</a>."
+		"copyright": "Copyright © 2017 Shiwu Liao. Made with ♥ and <a href='https://jekyllrb.com/' target='_blank'>Jekyll</a>."
 	}]
 }
