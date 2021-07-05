@@ -2,8 +2,8 @@
 	"name": "Chinese",
 	"terms": [{
 		"profile_photo": {
-			"name": "廖诗武  博士",
-			"position": "国网江苏省电力有限公司电力科学研究院，工程师",
+			"name": "廖诗武  博士，高级工程师",
+			"position": "",
 			"contact": "Email(base64 encoded): bGlhb3NoaXd1QGdtYWlsLmNvbQ==",
 			"change": "change to ",
 			"scroll_down": "向下滚动",
@@ -11,7 +11,7 @@
 		},
 		"profile_about": {
 			"title": "关于我",
-			"paragraph_1": "分别于2012年、2017年获华中科技大学电气与电子工程学院学士、博士学位，并于2015年9月~2016年8月赴哈佛大学交流访问。研究领域包括：含新能源电力系统的运行、调度与规划，电力系统恢复控制，以及电力系统运行的环境影响分析等。",
+			"paragraph_1": "分别于2012年、2017年获华中科技大学电气与电子工程学院学士、博士学位，并于2015年9月~2016年8月赴哈佛大学交流访问。研究领域包括：含新能源电力系统的运行与优化，市场，以及电力系统运行的环境影响分析等。",
 			"paragraph_2": "",
 			"paragraph_3": "",
 			"paragraph_4": "",
@@ -24,6 +24,6 @@
 			"author": "Blaise Pascal",
 			"section": "Quote"
 		},
-		"copyright": "Copyright © 2017 Shiwu Liao. Made with ♥ and <a href='https://jekyllrb.com/' target='_blank'>Jekyll</a>."
+		"copyright": "Copyright © 2021 Shiwu Liao. Made with ♥ and <a href='https://jekyllrb.com/' target='_blank'>Jekyll</a>."
 	}]
 }
